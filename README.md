@@ -23,7 +23,7 @@ To run the code, follow these steps:
 1. Install the required dependencies by executing the following command:
 
 ```bash
-!pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 This command installs all necessary Python packages specified in the `requirements.txt` file.
